@@ -70,7 +70,7 @@ export default function App() {
     <div className="h-[75vh] pt-5">
       {/* Swiper Slider */}
       <Swiper
-        slidesPerView={1}  // Show one slide at a time
+        slidesPerView={1}   
         spaceBetween={30}
         pagination={{
           clickable: true,
